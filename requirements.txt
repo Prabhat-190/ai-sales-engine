@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+gtts
+pydub
+openai
+nltk
+python-multipart
